@@ -1,0 +1,8 @@
+When a item is billing sales modules ask for the customer details with ,
+
+customer_id - Primary key
+cashier_id - Foreign key used to inform the cashier or admin who add the customer details
+mobile_number - Unique
+customer_name,
+loyalty_points,
+date_registered,
